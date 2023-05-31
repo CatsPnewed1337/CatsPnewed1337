@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=dodgerblue&logoColor=white&labelColor=dodgerblue&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/invite/kGHMbRzwGt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Selenite Halite&logo=discord&label=&color=dodgerblue&logoColor=white&labelColor=dodgerblue&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Selenite&logo=discord&label=&color=dodgerblue&logoColor=white&labelColor=dodgerblue&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
